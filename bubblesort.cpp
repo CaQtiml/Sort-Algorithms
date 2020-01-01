@@ -1,4 +1,7 @@
-#include "bits/stdc++.h"
+#include "stdio.h"
+#include "iostream"
+#include "algorithm"
+#include "stdlib.h"
 using namespace std;
 int a[100];
 template<typename T>
